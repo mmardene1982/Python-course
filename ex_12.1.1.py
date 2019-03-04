@@ -20,7 +20,7 @@ def my_func(url):
     tags=soup('a')
     mytags=tags[position-1]
     new_tag=mytags.get('href',None)
-    #print(new_tag)
+    print(new_tag)
     return new_tag
 my_func(url)
 
