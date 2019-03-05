@@ -6,6 +6,7 @@ ctx= ssl.create_default_context()
 ctx.check_hostname= False
 ctx.verify_mode= ssl.CERT_NONE
 
+
 # inputs
 url= input('Enter URL: ')
 if len(url)<1:
@@ -23,7 +24,7 @@ def my_func(url):
     for tag in tags:
         my_tag= tag.get('href',None)
         linkList.append(my_tag)
-    #print(linkList)
+    print(linkList)
     return linkList
 my_func(url)
 
