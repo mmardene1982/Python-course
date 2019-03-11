@@ -1,4 +1,4 @@
-
+import test
 score = input("Enter Score: ")
 
 try:
@@ -22,4 +22,5 @@ elif scoreF >=0.6:
     print("D")
 elif scoreF < 0.6:
     print("F")
+test.example()
 
