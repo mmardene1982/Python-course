@@ -25,3 +25,8 @@ counts= tree.findall('comments/comment/count')
 countI= [int(count.text) for count in counts]
 print('the count are:', str(len(counts)))
 print('the total is:',sum(countI))
+
+
+
+
+
