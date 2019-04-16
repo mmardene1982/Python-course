@@ -27,7 +27,7 @@ CREATE TABLE Track (
         AUTOINCREMENT UNIQUE,
     title TEXT  UNIQUE,
     album_id  INTEGER,
-    len INTEGER, rating INTEGER, count INTEGER
+    len INTEGER, rating INTEGER, count INTEGER, genre_id
 );
 CREATE TABLE Genre (
     id  INTEGER NOT NULL PRIMARY KEY 
@@ -65,7 +65,7 @@ for entry in all:
     length = lookup(entry, 'Total Time')
     genre = lookup(entry, 'Genre')
 
-    if name is None or artist is None or album is None : 
+    if name is None or artist is None or album is None or genre is None :
         continue
 
     print(name, artist, album, count, rating, genre,length)
@@ -80,9 +80,15 @@ for entry in all:
     cur.execute('SELECT id FROM Album WHERE title = ? ', (album, ))
     album_id = cur.fetchone()[0]
 
+    cur.execute('''INSERT OR IGNORE INTO Genre (name) 
+            VALUES ( ? )''', (genre,))
+
+    cur.execute('SELECT id FROM genre WHERE name = ? ', (genre,))
+    genre_id = cur.fetchone()[0]
+
     cur.execute('''INSERT OR REPLACE INTO Track
-        (title, album_id, len, rating, count) 
-        VALUES ( ?, ?, ?, ?, ? )''',
-        ( name, album_id, length, rating, count ) )
+        (title, album_id, len, rating, count, genre_id) 
+        VALUES ( ?, ?, ?, ?, ?,? )''',
+        ( name, album_id, length, rating, count, genre_id ) )
 
     conn.commit()
