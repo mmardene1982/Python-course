@@ -5,44 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd445595-7870-49ae-aff5-1d8376a21899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdfTOcxl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test progress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excersizes/Ages.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/Ages.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excersizes/Our First Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/Our First Database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excersizes/org.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/org.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Holidays.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Holidays.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py4e-master/code/oauth.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code/oauth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py4e-master/code3/bs4/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/bs4/diagnose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py4e-master/code3/oauth.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/oauth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py4e-master/code3/pagerank/bs4/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/pagerank/bs4/diagnose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImagePalette.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImagePalette.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF2/pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF2/pdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/bs4/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/bs4/diagnose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/app/chunkparser_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/app/chunkparser_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/chat/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/chat/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/classify/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/classify/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/cluster/kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/cluster/kmeans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/featstruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/featstruct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/lm/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/lm/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/metrics/scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/metrics/scores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/chomsky.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/chomsky.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/wordfinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/wordfinder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/parse/pchart.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/parse/pchart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/probability.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/probability.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/sentiment/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/sentiment/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/hmm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/hmm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/perceptron.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tbl/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tbl/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/test/unit/test_seekable_unicode_stream_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/test/unit/test_seekable_unicode_stream_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/retrying.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/test progress.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,11 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test progress.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -385,18 +348,25 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1557234398631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="added in the pc">
+      <created>1581493292191</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1581493292191</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20495258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280507" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28666666" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28666666" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -672,11 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test progress.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
