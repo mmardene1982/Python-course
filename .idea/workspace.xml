@@ -1,15 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Trello.py" line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fd445595-7870-49ae-aff5-1d8376a21899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getUserneame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfTOcxl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test progress.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Excersizes/rosterdb.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/rosterdb.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excersizes/Ages.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/Ages.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excersizes/Our First Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/Our First Database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excersizes/org.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Excersizes/org.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Holidays.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Holidays.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py4e-master/code3/pagerank/spider.js" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/pagerank/spider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracks/trackdb.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py4e-master/code/oauth.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code/oauth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py4e-master/code3/bs4/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/bs4/diagnose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py4e-master/code3/oauth.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/oauth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py4e-master/code3/pagerank/bs4/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/py4e-master/code3/pagerank/bs4/diagnose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImagePalette.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImagePalette.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF2/pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PyPDF2/pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/bs4/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/bs4/diagnose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/app/chunkparser_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/app/chunkparser_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/chat/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/chat/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/classify/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/classify/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/cluster/kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/cluster/kmeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/draw/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/featstruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/featstruct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/lm/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/lm/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/metrics/scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/metrics/scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/chomsky.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/chomsky.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/wordfinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/misc/wordfinder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/parse/pchart.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/parse/pchart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/probability.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/probability.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/sentiment/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/sentiment/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/hmm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/hmm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tag/perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tbl/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/tbl/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/test/unit/test_seekable_unicode_stream_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/nltk/test/unit/test_seekable_unicode_stream_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/retrying.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/retrying.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,33 +53,79 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/pdfTOcxl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/getUserneame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="360">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="e#1#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Holiday finder.py">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_8.4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="360">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test progress.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_7.2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_7.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_6.5.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_5.2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_9.4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_10.2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excersizes/ex_11.4.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -83,14 +162,23 @@
         <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/getUserneame.py" />
+        <option value="$PROJECT_DIR$/duckduckgo.py" />
+        <option value="$PROJECT_DIR$/random.py" />
+        <option value="$PROJECT_DIR$/random1.py" />
+        <option value="$PROJECT_DIR$/Excersizes/ex_9.4.py" />
+        <option value="$PROJECT_DIR$/Survey.py" />
+        <option value="$PROJECT_DIR$/Excersizes/Our First Database.py" />
+        <option value="$PROJECT_DIR$/Trello.py" />
+        <option value="$PROJECT_DIR$/pdfTOcxl.py" />
+        <option value="$PROJECT_DIR$/test progress.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3848" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="236" />
+    <option name="y" value="-18" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -115,7 +203,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python-course" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python-course" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,8 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.getUserneame">
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test progress">
+    <configuration name="Trello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="geodump" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Youtube Dowlloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,32 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geodata/geodata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geodata/geodata/geodump.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="geoload" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geodata/geodata" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geodata/geodata/geoload.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Youtube Dowlloader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pdfTOcxl" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +301,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdfTOcxl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test progress" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test progress.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test progress" />
+        <item itemvalue="Python.pdfTOcxl" />
+        <item itemvalue="Python.Trello" />
+        <item itemvalue="Python.Youtube Dowlloader" />
         <item itemvalue="Python.getUserneame" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.geodump" />
-        <item itemvalue="Python.geoload" />
       </list>
     </recent_temporary>
   </component>
@@ -283,19 +379,24 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1554815834758</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="added in the pc">
+      <created>1557234398630</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1557234398631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3848" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2260274" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20495258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280507" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28777778" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28666666" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,7 +404,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3288889" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32852563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,21 +445,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added in the pc" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex_12.1.1.py" />
-    <entry file="file://$PROJECT_DIR$/url.txt" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/youtube_alarm_videos.txt" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/https---www.google.com-maps-@-api=1&amp;map_action=map&amp;center=-33.712206,150.311941&amp;zoom=12&amp;basemap=terrain.url" />
-    <entry file="file://$USER_HOME$/Downloads/client_secret_36497332652-e6t1q6bdj8gahkdbqd20qnjjb593q294.apps.googleusercontent.com.json" />
-    <entry file="file://$PROJECT_DIR$/j.py" />
-    <entry file="file://$PROJECT_DIR$/Google_program.py" />
-    <entry file="file://$PROJECT_DIR$/romeo.txt" />
-    <entry file="file://$PROJECT_DIR$/quiz.py" />
-    <entry file="file://$PROJECT_DIR$/ex_3.3.py" />
-    <entry file="file://$PROJECT_DIR$/org.db" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/lib2to3/refactor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -417,16 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Youtube Dowlloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="69" column="15" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Roster.py" />
     <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -445,27 +521,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/duckduckgo.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
+        <state relative-caret-position="720">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Holiday finder.py">
+    <entry file="file://$PROJECT_DIR$/random1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/OSC-21.txt" />
+    <entry file="file://$PROJECT_DIR$/Excersizes/soup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OSC.csv" />
+    <entry file="file://$PROJECT_DIR$/Survey.csv" />
+    <entry file="file://$PROJECT_DIR$/Excersizes/web crowler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/Our First Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/org counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/getUserneame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube Dowlloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Z-33.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Youtube Dowlloader.spec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Survey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Holiday finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="69" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PDF_T_CSV.csv" />
+    <entry file="file://$PROJECT_DIR$/Trello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_3.3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_4.6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdfTOcxl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_8.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_7.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_7.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_6.5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_5.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_9.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_10.2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excersizes/ex_11.4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test progress.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

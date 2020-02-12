@@ -18,7 +18,7 @@ for i in range(4):
 
     c.execute('''SELECT count FROM counts WHERE emails= ?''', (emails,))
     row = c.fetchone()
-    # print(row)
+    # prinmahert(row)
     if row is None:
         c.execute('''INSERT INTO counts (emails, count) VALUES (?, 1)''', (emails,))
     else:

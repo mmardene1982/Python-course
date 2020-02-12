@@ -25,7 +25,7 @@ THE SOFTWARE.
 import cgi
 import urllib.request, urllib.parse, urllib.error
 import time
-import random
+import random1
 import urllib.parse
 import binascii
 
@@ -66,7 +66,7 @@ def generate_timestamp():
 
 def generate_nonce(length=8):
     """Generate pseudorandom number."""
-    return ''.join([str(random.randint(0, 9)) for i in range(length)])
+    return ''.join([str(random1.randint(0, 9)) for i in range(length)])
 
 
 class OAuthConsumer(object):
